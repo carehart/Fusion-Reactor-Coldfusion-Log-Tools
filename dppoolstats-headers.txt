@@ -1,0 +1,1 @@
+date time datetimemms version srvstartts aveopenconnectcnt avetotconnectcnt dns maxconnectnumb openconnectnum totconnectcnt

@@ -1,0 +1,1 @@
+date time datetimemms version srvstartts templatehitcnt deltatemplatehitcnt gtwyhitcnt deltagtwyhitcnt flashhitcnt deltaflashhitcnt rcfchitcnt deltarcfchitcnt wshitcnt deltawshitcnt totalhitcnt deltatotalhitcnt deltacapttimems
