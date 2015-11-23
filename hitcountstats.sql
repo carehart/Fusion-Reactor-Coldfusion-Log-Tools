@@ -1,18 +1,3 @@
-/*
-Navicat PGSQL Data Transfer
-
-Source Server         : Local
-Source Server Version : 90402
-Source Host           : localhost:5432
-Source Database       : postgres
-Source Schema         : public
-
-Target Server Type    : PGSQL
-Target Server Version : 90402
-File Encoding         : 65001
-
-Date: 2015-11-11 01:38:56
-*/
 
 
 -- ----------------------------
@@ -42,7 +27,3 @@ CREATE TABLE "public"."hitcountstats" (
 WITH (OIDS=FALSE)
 
 ;
-
--- ----------------------------
--- Alter Sequences Owned By 
--- ----------------------------
