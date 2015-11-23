@@ -1,18 +1,3 @@
-/*
-Navicat PGSQL Data Transfer
-
-Source Server         : Local
-Source Server Version : 90305
-Source Host           : localhost:5432
-Source Database       : LOCAL SPC
-Source Schema         : public
-
-Target Server Type    : PGSQL
-Target Server Version : 90305
-File Encoding         : 65001
-
-Date: 2015-11-11 10:35:57
-*/
 
 
 -- ----------------------------
@@ -49,10 +34,4 @@ WITH (OIDS=FALSE)
 
 ;
 
--- ----------------------------
--- Records of jdbc
--- ----------------------------
 
--- ----------------------------
--- Alter Sequences Owned By 
--- ----------------------------
