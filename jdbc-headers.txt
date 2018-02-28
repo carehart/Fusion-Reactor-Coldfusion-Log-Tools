@@ -1,0 +1,1 @@
+date time datetimems version srvstartts requestid threadid clientip requestmethod requesturl logtype dbstarttime dbendtime totalendtime dbtime totaltime rowcount prepstmt rowlimited dsn statement stacktrace querystring message
