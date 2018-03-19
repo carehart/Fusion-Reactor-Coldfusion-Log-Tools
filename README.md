@@ -1,5 +1,5 @@
 # FusionReactor-Log-Headers
-The purpose of this project is to offer log header files (single-word headers on a single line) for the various log files in FusionReactor, a monitoring tool for ColdFusion, Lucee, and any Java server. For more on FusionReactor, see http://www.fusion-reactor.com.
+The purpose of this project is to offer log header files (single-word headers on a single line) for the various log files in FusionReactor, a monitoring tool for ColdFusion, Lucee, and any Java server. For more on the FR logs (and descriptions of each log as well as its columns, from which these header files are being created), see https://docs.fusion-reactor.com/display/FR71/Log+Files+Available+in+FusionReactor. For more on FusionReactor, see http://www.fusion-reactor.com.
 
 These log header files can be valuable when using tools to analyze the logs, such as Microsoft Excel (or OpenOffice Calc) as well as Microsoft Log Parser command line tool. I've written in the past about using such tools with FusionReactor log files in the past, or done presentations on them, as offered either at my own site, http://www.carehart.org, or at the webinars area of the FusionReactor site, http://www.fusion-reactor.com/webinars.
 
